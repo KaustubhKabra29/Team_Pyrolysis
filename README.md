@@ -10,7 +10,7 @@ We hope that one day our ecosystem becomes plastic free and overcome from the ha
 **Block Diagram of Project:<br>
 <img src='BLOCK DIAGRAM/PP_FUEL_BLOCK DIAGRAM.png'>
 <br>
-<img src='BLOCK DIAGRAM/PP_FUEL_BLOCK DIAGRAM.png'>
+<img src='Kaustubh Kabra_DeveloperHacks-21_CertificateOfRecognition.pdf'>
 <br> 
 **Tech Stack:**<br><br>
 1.Html<br>
